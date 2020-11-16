@@ -1,0 +1,14 @@
+#lout{
+    display: inline-block;
+    margin-left: 40px;
+}
+.newDiv{
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    width: 80px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
