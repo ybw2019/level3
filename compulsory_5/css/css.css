@@ -1,0 +1,12 @@
+#container{
+    height: 200px;
+    width: 1000px;
+}
+.block{
+    display: inline-block;
+    background-color: skyblue;
+    height: var(--height);
+    width: 10px;
+    margin-left: 2px;
+    margin-bottom: -200px;
+}
