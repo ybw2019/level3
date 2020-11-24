@@ -83,6 +83,7 @@ function sort_arr() {
     else {
         for (let i = 0; i < user_arr.length - 1; i++) {
             let flag = true;
+            console.log(i);
             for (let j = 0; j < user_arr.length - 1 - i; j++) {
                 setInterval(function () {
                     if (user_arr[j] > user_arr[j + 1]) {
