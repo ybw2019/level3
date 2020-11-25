@@ -1,0 +1,214 @@
+#container{
+    width: 20rem;
+    height: 22rem;
+    border: 0.1rem solid black;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#display{
+    width: 18rem;
+    height: 2rem;
+    border: 0.1rem solid gray;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    text-align: right;
+    line-height: 2rem;
+}
+#persentage:hover,#n1:hover,#n2:hover,#n3:hover,#ac:hover,
+#n4:hover,#n5:hover,#n6:hover,#n7:hover,#n8:hover,#n9:hover,#multi:hover,#division:hover,
+#subtraction:hover,#n0:hover,#point:hover,#equal:hover,#add:hover{
+    background-color: orange;
+    border: 0.1rem solid orange;
+}
+
+
+#persentage{
+    width: 3rem;
+    height: 2rem;
+    background-color: gray;
+    position: absolute;
+    top: 4rem;
+    left: 12rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#ac{
+    width: 3rem;
+    height: 2rem;
+    background-color:gray;
+    position: absolute;
+    top: 4rem;
+    left: 16.2rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+
+
+#n7{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 7rem;
+    left: 3.6rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n8{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 7rem;
+    left: 7.8rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n9{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 7rem;
+    left: 12rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#division{
+    font-weight: bold;
+    width: 3rem;
+    height: 2rem;
+    background-color: gray;
+    position: absolute;
+    top: 7rem;
+    left: 16.2rem;
+    border: 0.1rem solid gray;
+}
+
+
+#n4{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 10rem;
+    left: 3.6rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n5{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 10rem;
+    left: 7.8rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n6{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 10rem;
+    left: 12rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#multi{
+    font-weight: bold;
+    width: 3rem;
+    height: 2rem;
+    background-color: gray;
+    position: absolute;
+    top: 10rem;
+    left: 16.2rem;
+    border: 0.1rem solid gray;
+}
+
+
+#n1{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 13rem;
+    left: 3.6rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n2{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 13rem;
+    left: 7.8rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#n3{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 13rem;
+    left: 12rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#subtraction{
+    font-weight: bold;
+    width: 3rem;
+    height: 2rem;
+    background-color: gray;
+    position: absolute;
+    top: 13rem;
+    left: 16.2rem;
+    border: 0.1rem solid gray;
+}
+
+
+#n0{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 16rem;
+    left: 3.6rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#point{
+    width: 3rem;
+    height: 2rem;
+    background-color: #eeeeee;
+    position: absolute;
+    top: 16rem;
+    left: 7.8rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#equal{
+    width: 3rem;
+    height: 2rem;
+    background-color:blue;
+    position: absolute;
+    top: 16rem;
+    left: 12rem;
+    border: 0.1rem solid gray;
+    font-weight: bold;
+}
+#add{
+    font-weight: bold;
+    width: 3rem;
+    height: 2rem;
+    background-color: gray;
+    position: absolute;
+    top: 16rem;
+    left: 16.2rem;
+    border: 0.1rem solid gray;
+}
